@@ -1,0 +1,3 @@
+Anything using '$' in PHP is a variable.
+In PHP, all classes, functions, and user-defined functions are NOT case sensitive.
+Variables CANNOT start with a number and have special characters other than '_'.
